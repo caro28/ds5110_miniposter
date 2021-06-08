@@ -1,1 +1,1 @@
-# ds5110_miniposter
+# Dataset downloaded from Kaggle: https://www.kaggle.com/kaushiksuresh147/covidvaccine-tweets
